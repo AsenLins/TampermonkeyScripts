@@ -30,4 +30,4 @@
 - OK，查询状态，如下图，代表加载脚本已加载成功,脚本已
 
 
-<img src="https://pic.imgdb.cn/item/6228d2e25baa1a80ab919278.png"/>
+![image](/assets/images/docs/discord-remind/img.min.png)
