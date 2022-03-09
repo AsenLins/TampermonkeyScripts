@@ -27,7 +27,7 @@
 - 选择**step-1-read**频道
 - 打开Disable Content-Security-Policy
 - 确保油猴已经加载
-- OK，查询状态，如下图，代表加载脚本已加载成功,脚本已
+- OK，查询状态，如下图，代表加载脚本已加载成功,脚本已运行
 
 
 ![image](/assets/images/docs/discord-remind/img.min.png)
