@@ -3,7 +3,7 @@
 
 ## 安装
 打开谷歌应用安装以下插件:
-- 安装[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/)dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW
+- 安装[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW)
 - 安装[Disable Content-Security-Policy](https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?hl=zh-CN)
 
 - 导入到discord-remind.js到Tampermonkey
